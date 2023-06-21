@@ -20,6 +20,7 @@ cd Demo-Project
 docker-compose up -d [Make sure docker is running on your system]
 ```
 Run *DemoProjectApplication.java* in **src** Folder
+
 Now it is time to run front-end
 ```
 cd student-frontend
