@@ -14,7 +14,7 @@
 
 Clone the Repository on your local computer
 ```
-cd Demo-Project
+cd springApplication
 ```
 ```
 docker-compose up -d [Make sure docker is running on your system]
