@@ -7,8 +7,8 @@
 2. docker
 
 ## About
-### It's Backend is written in SpringBoot [JAVA]
-### For Frontend I have used React
+### 1. It's Backend is written in SpringBoot [JAVA]
+### 2. For Frontend I have used React
 
 ### How to run
 
