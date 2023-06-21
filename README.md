@@ -12,20 +12,20 @@
 
 ### How to run
 
-Clone the Repository on your local computer
+- Clone the Repository on your local computer
 ```
 cd springApplication
 ```
 ```
 docker-compose up -d [Make sure docker is running on your system]
 ```
-Run *DemoProjectApplication.java* in **src** Folder
+- Run **DemoProjectApplication.java** in **src** Folder
 
-Now it is time to run front-end
+- Now it is time to run front-end
 ```
 cd student-frontend
 ```
 ```
 npm start
 ```
-Open (http://localhost:3000) to view and use application on your browser
+- Open (http://localhost:3000) to view and use application on your browser
