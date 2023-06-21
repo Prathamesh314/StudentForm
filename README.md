@@ -1,14 +1,14 @@
 # Student Details Form
 
-#### My first Full Stack project which stores Student's Details
+## My first Full Stack project which stores Student's Details
 
 ### Pre-Installed applications
 1. Nodejs
 2. docker
 
 ## About
-• It's Backend is written in SpringBoot [JAVA]
-• For Frontend I have used React
+### It's Backend is written in SpringBoot [JAVA]
+### For Frontend I have used React
 
 ### How to run
 
