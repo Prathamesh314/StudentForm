@@ -19,6 +19,8 @@ cd springApplication
 ```
 docker-compose up -d [Make sure docker is running on your system]
 ```
+- Create a new Database name :- fullstack
+  
 - Run **DemoProjectApplication.java** in **src** Folder
 
 - Now it is time to run front-end
